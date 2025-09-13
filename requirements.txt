@@ -1,6 +1,6 @@
 torch==2.2.2
 transformers==4.39.3
-tokenizers==0.18.1
+tokenizers==0.15.2
 streamlit==1.34.0
 pillow==10.4.0
 protobuf==4.25.3
